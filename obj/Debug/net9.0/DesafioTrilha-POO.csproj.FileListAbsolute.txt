@@ -1,0 +1,14 @@
+C:\Users\pedro\Projetos\DesafioTrilha-POO\bin\Debug\net9.0\DesafioTrilha-POO.exe
+C:\Users\pedro\Projetos\DesafioTrilha-POO\bin\Debug\net9.0\DesafioTrilha-POO.deps.json
+C:\Users\pedro\Projetos\DesafioTrilha-POO\bin\Debug\net9.0\DesafioTrilha-POO.runtimeconfig.json
+C:\Users\pedro\Projetos\DesafioTrilha-POO\bin\Debug\net9.0\DesafioTrilha-POO.dll
+C:\Users\pedro\Projetos\DesafioTrilha-POO\bin\Debug\net9.0\DesafioTrilha-POO.pdb
+C:\Users\pedro\Projetos\DesafioTrilha-POO\obj\Debug\net9.0\DesafioTrilha-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Projetos\DesafioTrilha-POO\obj\Debug\net9.0\DesafioTrilha-POO.AssemblyInfoInputs.cache
+C:\Users\pedro\Projetos\DesafioTrilha-POO\obj\Debug\net9.0\DesafioTrilha-POO.AssemblyInfo.cs
+C:\Users\pedro\Projetos\DesafioTrilha-POO\obj\Debug\net9.0\DesafioTrilha-POO.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Projetos\DesafioTrilha-POO\obj\Debug\net9.0\DesafioTrilha-POO.dll
+C:\Users\pedro\Projetos\DesafioTrilha-POO\obj\Debug\net9.0\refint\DesafioTrilha-POO.dll
+C:\Users\pedro\Projetos\DesafioTrilha-POO\obj\Debug\net9.0\DesafioTrilha-POO.pdb
+C:\Users\pedro\Projetos\DesafioTrilha-POO\obj\Debug\net9.0\DesafioTrilha-POO.genruntimeconfig.cache
+C:\Users\pedro\Projetos\DesafioTrilha-POO\obj\Debug\net9.0\ref\DesafioTrilha-POO.dll
